@@ -1,0 +1,1 @@
+$(".root").load("module/admin.php")

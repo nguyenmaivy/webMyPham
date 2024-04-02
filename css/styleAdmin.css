@@ -1,0 +1,6 @@
+.sidebar-offcanvas {
+    width: 247px;
+}
+.content-left {
+    flex-shrink: 1;
+}

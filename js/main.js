@@ -101,4 +101,7 @@
     });
     
 })(jQuery);
+/* Sau khi kiểm tra nếu có đăng nhập với quyền admin thì sẽ load trang admin*/
+//Load trang admin cần chạy xampp
+// window.location.href="http://localhost/webMyPham/admin.html"
 
